@@ -1,2 +1,2 @@
 def move():
-  pass
+  print('La pièce a été déplacée')
