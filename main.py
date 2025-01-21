@@ -1,0 +1,3 @@
+import piece
+
+move()
